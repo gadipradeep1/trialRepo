@@ -1,2 +1,4 @@
-This is my first{second} line.
-This is my second line
+main()
+{
+This is my first program
+}
